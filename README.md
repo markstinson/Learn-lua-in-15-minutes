@@ -1,5 +1,6 @@
 # Learn lua in 15 minutes
 Awesome tutorial from http://tylerneylon.com/a/learn-lua/
+If you want to see code highlighted install for your browser this extension: https://github.com/adam-p/markdown-here
 ```lua
 -- Two dashes start a one-line comment.
 
